@@ -1,8 +1,4 @@
-Here is your **README.md** fully translated into English and well-structured for the **Studying Ticket Bots** project on GitHub:  
-
----
-
-```md
+```
 # 🎟️ Studying Ticket Bots  
 
 A **Discord ticket bot** designed for learning and practicing the creation of efficient support systems. It offers **customizable categories**, **slash commands**, **inactivity monitoring**, and **automatic ticket archiving**.  
@@ -120,14 +116,3 @@ module.exports = {
 ```
 
 To add more categories, simply copy and modify the objects inside the `categories` array.  
-
----
-
-## 🛠 Support & Contribution  
-
-If you need help, feel free to open an **issue** or contribute by submitting a **pull request**. 🚀  
-```
-
----
-
-This **README** is now fully in English, well-structured, and ready to use! Let me know if you need any further modifications. 😊🚀
